@@ -6,7 +6,7 @@
 
 - Toplama, çıkarma, çarpma ve bölme işlemleri
 - Temiz ve sade kullanıcı arayüzü
-- Kotlin dili ile yazılmıştır
+- Java dili ile yazılmıştır
 - Android Studio ile geliştirilmiştir
 
 ## 📸 Ekran Görüntüsü
